@@ -1,4 +1,4 @@
-#github-dl
+# github-dl
 
 A small tool to download any file from github.
 Prompts you for a search query parameter. You can search via type complete through the search results.

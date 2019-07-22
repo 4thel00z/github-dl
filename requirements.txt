@@ -1,1 +1,2 @@
-requests==2.19.1prompt-toolkit==2.0.9
+requests>=2.20.0
+prompt-toolkit==2.0.9
